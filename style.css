@@ -1,0 +1,57 @@
+.main-contenedor{
+    background-color: darkcyan;
+    color: white;
+}
+
+.subtitle{
+    color: coral;
+}
+
+.title{
+    text-align: right;
+}
+.title-red{
+    color: red;
+    font-family: sans-serif;
+}
+
+.background{
+    background-color: lightsteelblue;
+}
+
+.parrafo1{
+    color: orange;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.parrafo2{
+    color: orange;
+}
+.parrafo3{
+    color: green;
+    background-color: white;
+}
+
+.background-catalogo{
+    background-color: mintcream;
+}
+.title-catalogo{
+    text-align: center;
+    font-weight: bold;
+}
+
+.subtitle{
+    color: steelblue;
+    font-weight: bold;
+}
+.text-1{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.text-2{
+    font-weight: bold;
+    color: red;
+}
+.text-3{
+    color: blue;
+}
